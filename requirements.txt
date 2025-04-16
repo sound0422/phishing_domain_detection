@@ -1,0 +1,8 @@
+Python
+Scikit-learn
+XGBoost
+Flask
+tldextract
+NumPy
+pandas
+matplotlib
