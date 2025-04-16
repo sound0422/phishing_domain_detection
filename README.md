@@ -20,5 +20,5 @@ This project uses multiple machine learning models to detect whether a given dom
 
 Create a new environment
 ```
-conda create -p venv python==3.7 -y
+conda create -p venv python==3.12 -y
 ```

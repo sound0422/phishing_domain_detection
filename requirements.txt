@@ -1,8 +1,7 @@
-Python
-Scikit-learn
-XGBoost
+sklearn
+xgboost
 Flask
 tldextract
-NumPy
+numPy
 pandas
 matplotlib
