@@ -5,3 +5,4 @@ tldextract
 numPy
 pandas
 matplotlib
+gunicorn==20.1.0
